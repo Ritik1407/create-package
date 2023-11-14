@@ -1,0 +1,1 @@
+const isRitik = require('isRitik')

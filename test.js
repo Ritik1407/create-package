@@ -1,1 +1,3 @@
-const isRitik = require('isRitik')
+const isRitik = require('is-ritik')
+
+console.log(isRitik('Ritik')) 
